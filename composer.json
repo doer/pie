@@ -1,0 +1,16 @@
+{
+    "name": "php-labs/pie",
+    "description": "安全、简单可控的内网穿透/代理工具",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "铁岭王力宏",
+            "email": "anoxia@engineer.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8.2"
+    }
+}
